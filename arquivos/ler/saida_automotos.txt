@@ -1,0 +1,13 @@
+(q0,0)--> q
+(q0,1)--> q
+(q1,0)--> q
+(q1,1)--> q
+(q2,0)--> q
+(q2,1)--> q
+(q3,0)--> q
+(q3,1)--> q
+
+First State: q0
+Final State: q4
+QxE->Q
+
